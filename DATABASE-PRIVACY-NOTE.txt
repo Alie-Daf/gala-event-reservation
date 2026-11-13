@@ -1,0 +1,5 @@
+DATABASE EXPORT NOT INCLUDED
+
+The separately uploaded SQL export contains existing customer/user account details, reservation names/emails/phone numbers, session records, and password hashes. It is intentionally excluded from this GitHub-ready project to avoid publishing private data.
+
+Use the Laravel migrations in database/migrations/ to create a clean database. For a portfolio demo, populate it with fictional test records only.
